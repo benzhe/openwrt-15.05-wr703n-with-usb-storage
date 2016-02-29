@@ -1,0 +1,11 @@
+6d632c13f51ac30931ab2bdfb6bb4999 *openwrt-15.05-ar71xx-generic-root.squashfs
+a544c7b6b7090442a100931f9379be91 *openwrt-15.05-ar71xx-generic-root.squashfs-64k
+b6fe56344962a95384d6026f970e300c *openwrt-15.05-ar71xx-generic-tl-wr703n-v1-squashfs-factory.bin
+55cf08e0f28c3f901c12ba3bbd34b2af *openwrt-15.05-ar71xx-generic-tl-wr703n-v1-squashfs-sysupgrade.bin
+e6bcbafd40337f2590fa8a14f64af4e3 *openwrt-15.05-ar71xx-generic-uImage-gzip.bin
+f56af9c862ec77d7b890927849f73a14 *openwrt-15.05-ar71xx-generic-uImage-lzma.bin
+06acb91e5dbb3ca1156a50a690b586ad *openwrt-15.05-ar71xx-generic-vmlinux-lzma.elf
+e5ca2dcdee3015165fe89ecdbc56fc11 *openwrt-15.05-ar71xx-generic-vmlinux.bin
+dfde24343608f838b6240b478f83568d *openwrt-15.05-ar71xx-generic-vmlinux.elf
+98698e3e61817195b5f4437bb5891739 *openwrt-15.05-ar71xx-generic-vmlinux.gz
+1060c239b363ae0c382800dae9956c8b *openwrt-15.05-ar71xx-generic-vmlinux.lzma
